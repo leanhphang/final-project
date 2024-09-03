@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": " Bánh Ướt",
+        "price": 40.000,
+        "image": "banhuot250.jpg"
+    },
+    {
+        "id": 2,
+        "name": " Bún Bò Huế ",
+        "price": 50.000,
+        "image": "bunbo250.jpg"
+    },
+    {
+        "id": 3,
+        "name": " Bún Đậu ",
+        "price": 50.000,
+        "image": "bundau250.webp"
+    },
+    {
+        "id": 4,
+        "name": " Bún Riêu",
+        "price": 40.000,
+        "image": "bunrieu.png"
+    },
+    {
+        "id": 5,
+        "name": " Phở Bò",
+        "price": 45.000,
+        "image": "phobo.jpg"
+    },
+    {
+        "id": 6,
+        "name": " Soup",
+        "price": 75.000,
+        "image": "soup.jpg"
+    },
+    {
+        "id": 7,
+        "name": " Beef Steak",
+        "price": 80.000,
+        "image": "steak.jpg"
+    },
+    {
+        "id": 8,
+        "name": " Salad",
+        "price": 70.000,
+        "image": "salad.jpg"
+    }
+]
