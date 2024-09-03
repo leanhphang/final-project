@@ -21,7 +21,7 @@ function login(event) {
     }
     else if (username == data.username && password == data.password) {
         alert(" đăng nhập thành công")
-        window.location.href = "TRANGCHU.html"
+        window.location.href = "index.html"
     }
     else {
         alert("đăng nhập thất bại")
